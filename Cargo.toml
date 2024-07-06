@@ -1,0 +1,7 @@
+[package]
+name = "grid_kitty_placement_system"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+grid_kitty_tiles = { path = "../grid_kitty_tiles" }
